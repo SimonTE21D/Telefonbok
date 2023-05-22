@@ -1,0 +1,10 @@
+C:\Users\simon.fredriksson\source\repos\TelefonBok\TelefonBok\bin\Debug\TelefonBok.exe.config
+C:\Users\simon.fredriksson\source\repos\TelefonBok\TelefonBok\bin\Debug\TelefonBok.exe
+C:\Users\simon.fredriksson\source\repos\TelefonBok\TelefonBok\bin\Debug\TelefonBok.pdb
+C:\Users\simon.fredriksson\source\repos\TelefonBok\TelefonBok\obj\Debug\TelefonBok.csproj.AssemblyReference.cache
+C:\Users\simon.fredriksson\source\repos\TelefonBok\TelefonBok\obj\Debug\TelefonBok.Form1.resources
+C:\Users\simon.fredriksson\source\repos\TelefonBok\TelefonBok\obj\Debug\TelefonBok.Properties.Resources.resources
+C:\Users\simon.fredriksson\source\repos\TelefonBok\TelefonBok\obj\Debug\TelefonBok.csproj.GenerateResource.cache
+C:\Users\simon.fredriksson\source\repos\TelefonBok\TelefonBok\obj\Debug\TelefonBok.csproj.CoreCompileInputs.cache
+C:\Users\simon.fredriksson\source\repos\TelefonBok\TelefonBok\obj\Debug\TelefonBok.exe
+C:\Users\simon.fredriksson\source\repos\TelefonBok\TelefonBok\obj\Debug\TelefonBok.pdb
